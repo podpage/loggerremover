@@ -1,2 +1,2 @@
 # loggerremover
-Removed *all* org.slf4j Logging Bullshit
+Removes *all* org.slf4j Logging Bullshit
